@@ -17,7 +17,10 @@ The discovery pipeline is run through the folloing command:
 
 	bash discover.sh input.bam exons.bed.gz prefix salmon_index
 
-#dependencies
+# Position
+
+
+# dependencies
 
 	samtools
 	salmon
