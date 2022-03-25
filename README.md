@@ -20,7 +20,7 @@ The discovery pipeline is run through the folloing command:
 # Position
 
 
-# dependencies
+# Dependencies
 
 	samtools
 	salmon
