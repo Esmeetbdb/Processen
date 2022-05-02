@@ -18,7 +18,8 @@ The discovery pipeline is run through the folloing command:
 	bash discover.sh input.bam exons.bed.gz prefix salmon_index
 
 # Position
-
+Pseudogenes found during the discover workflow are positioned in the Positioning workflow.
+Positioning uses variants in VCF files to predict where pseudogenes may be inserted.
 
 # Dependencies
 
